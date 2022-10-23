@@ -35,6 +35,11 @@ div > h1{
 .password{
     margin-top: 10px;
 }
+.email input, .password input{
+    height: 100%;
+    outline: none;
+}
+
 a{
    display: flex;
    align-items: left;
